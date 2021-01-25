@@ -8,5 +8,6 @@
 
 </div>
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++)
+<img src="https://img.shields.io/badge/c-A8B9CC.svg?stlye=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C.svg?stlye=for-the-badge&logo=c++&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?stlye=for-the-badge&logo=Docker&logoColor=white">
