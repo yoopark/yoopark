@@ -58,12 +58,10 @@
 
 ---
 
-[![yoopark's github stats](https://github-readme-stats.vercel.app/api?username=yoopark&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yoopark&layout=compact&theme=dracula)
-
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoopark&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://instagram.com/yo.o.park"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/yo.o.park"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a> <a href="https://yoopaark.tistory.com/"><img src="https://img.shields.io/badge/Devlog-181717?style=flat&logo=github&logoColor=white"></a>
 
 </div>
