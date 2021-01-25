@@ -8,4 +8,4 @@
 
 </div>
 
-![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C)
