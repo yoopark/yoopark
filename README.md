@@ -7,3 +7,5 @@
 [![yopark in 42Seoul](https://badge42.herokuapp.com/api/stats/yopark)](https://github.com/JaeSeoKim/badge42)
 
 </div>
+
+![C](https://img.shields.io/badge/C?style=flat-square&logo=C)
