@@ -4,4 +4,7 @@
 
 </div>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![yopark in 42Seoul](https://badge42.herokuapp.com/api/stats/yopark)](https://github.com/JaeSeoKim/badge42)
