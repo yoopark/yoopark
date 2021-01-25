@@ -9,11 +9,27 @@
 코딩의 세계를 뒤늦게 경험하고 헤어나오지 못하는 중입니다. 
 하루빨리 전공탈출을 꿈꾸고 있으며, 다음 학기부터는 코딩과 통계학에 전념할 예정입니다. 
 하지만 저에게 다음 학기는 아마 군대를 다녀온 몇년 뒤에나 찾아올 것 같네요...
+
+한때 인간으로 태어나 세상을 경험할 수 있는 이유에 호기심을 품었던 적이 있습니다. 
+자유를 선택했다기보다는 떠밀린 것이지만, 어쨌든 우리는 꽤 자유롭습니다. 
+저는 이 자유를 재미에 투자하기로 했습니다.
+다른 모든 가치보다 저 자신에게서 우러나오는 재미를 추구합니다.
+재미는 추억이나 목표할 때보다는, 행동하는 현재에서만 빛을 발하니까요.
 ```
 
 <br>
 
 [![yopark in 42Seoul](https://badge42.herokuapp.com/api/stats/yopark)](https://github.com/JaeSeoKim/badge42)
+
+---
+
+### Where I belong(ed) ✈️
+
+- 2016 ~ 2018 | Graduated from Chinese Department at Jeju Foreign Language High School
+- 2019 ~ 2025 | Majoring in Political Science & International Relations at Korea University
+- 2020 ~ 2023 | Pisciner -> Cadet at 42 Seoul
+- 2021 ~ 2022 | Serving as Driver at Korean Air Force (scheduled)
+- 2024 ~ 2025 | Dobule Major in Statistics at Korea University (scheduled)
 
 ---
 
