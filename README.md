@@ -25,7 +25,7 @@
 
 ### Where I belong(ed) ✈️
 
-<div alignment="left">
+<div align="left">
 
 - 2016 ~ 2018 | Graduated from Chinese Department at Jeju Foreign Language High School
 - 2019 ~ 2025 | Majoring in Political Science & International Relations at Korea University
