@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=mac&logoColor=white">
+<img src="https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=apple&logoColor=white">
 <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white">
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
