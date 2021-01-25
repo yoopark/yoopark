@@ -17,10 +17,6 @@
 재미는 추억이나 목표할 때보다는, 행동하는 현재에서만 빛을 발하니까요.
 ```
 
-<br>
-
-[![yopark in 42Seoul](https://badge42.herokuapp.com/api/stats/yopark)](https://github.com/JaeSeoKim/badge42)
-
 ---
 
 ### Where I belong(ed) ✈️
@@ -44,7 +40,7 @@
 
 <br>
 
-![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yoopark&layout=compact&theme=dracula)
+[![yopark in 42Seoul](https://badge42.herokuapp.com/api/stats/yopark)](https://github.com/JaeSeoKim/badge42) ![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yoopark&layout=compact&theme=dracula)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoopark&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
