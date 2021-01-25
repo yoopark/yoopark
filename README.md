@@ -25,11 +25,15 @@
 
 ### Where I belong(ed) ✈️
 
+<div alignment="left">
+
 - 2016 ~ 2018 | Graduated from Chinese Department at Jeju Foreign Language High School
 - 2019 ~ 2025 | Majoring in Political Science & International Relations at Korea University
 - 2020 ~ 2023 | Pisciner -> Cadet at 42 Seoul
 - 2021 ~ 2022 | Serving as Driver at Korean Air Force (scheduled)
 - 2024 ~ 2025 | Dobule Major in Statistics at Korea University (scheduled)
+
+</div>
 
 ---
 
