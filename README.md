@@ -8,6 +8,6 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/c-A8B9CC.svg?stlye=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C.svg?stlye=for-the-badge&logo=c++&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?stlye=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c++&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
