@@ -3,8 +3,6 @@
 ## `@yopark` `@yoopark` `@yoopaark` `@Yongjun Park` 🙇‍♂️🙇‍♂️
   
 <img height="400px" src="https://media.wired.com/photos/5c57c3e3ce277c2cb23d575b/4:3/w_2749,h_2062,c_limit/Culture_Facebook_TheSocialNetwork.jpg" />
-
-<br/><br/>
   
 ![](http://mazassumnida.wtf/api/mini/generate_badge?boj=yopark)
 ![](https://img.shields.io/badge/-I'm%20a%20night%20%F0%9F%A6%89-grey?style=flat-square)
