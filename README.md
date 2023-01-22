@@ -6,7 +6,8 @@
   
 ![](http://mazassumnida.wtf/api/mini/generate_badge?boj=yopark)
 ![](https://img.shields.io/badge/-I'm%20a%20night%20%F0%9F%A6%89-grey?style=flat-square)
-  
+![](https://img.shields.io/badge/-Be%20a%20specialist%20first.-informational?style=flat-square)
+
 </div>
 
 ### `이런 사람이 되자!`
@@ -15,6 +16,8 @@
 - 대부분의 시간을 몰입해 있는 사람
 
 ### `현재 관심사 (2023.1)`
+![Next.js](https://img.shields.io/badge/Next\.js-black?style=for-the-badge&logo=Next\.js)
+
 - [ ] 기록별 플랫폼 정해서 습관화하기
 - [ ] 드림코딩 Typescript 완강하기
 - [ ] 42서울 아우터 & 개발자 커리어 방향 설정하기
