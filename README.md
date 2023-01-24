@@ -33,3 +33,8 @@
 - 고려대학교 정치외교학과 재학 `(2019.03 ~ 현재)`
 
 
+<!-- <div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoopark&layout=compact&exclude_repo=yoopark.github.io,JavaScript30)
+
+</div> -->
