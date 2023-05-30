@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <h2><code>@yopark</code> <code>@yoopark</code> <code>@yoopaark</code> <code>@Yongjun Park</code> 🙇‍♂️🙇‍♂️</h2>
 
   <img height="350px" src="https://media.wired.com/photos/5c57c3e3ce277c2cb23d575b/4:3/w_2749,h_2062,c_limit/Culture_Facebook_TheSocialNetwork.jpg" />
